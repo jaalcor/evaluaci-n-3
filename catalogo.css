@@ -53,3 +53,24 @@
     width: 40% ;
     height: 100px;
 }
+.musica_5{
+    width: 40% ;
+    height: 100px;
+}
+.Descrpción{
+    display: block;
+    width: 25rem;
+    height: 2em;
+    border-radius: 5px;
+    background-color: #c6c6c6;
+    color: black;
+    font-size: 2rem;
+
+    margin: auto;
+    margin-top: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
